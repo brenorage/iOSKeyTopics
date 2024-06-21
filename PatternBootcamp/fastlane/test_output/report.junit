@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='PatternBootcampTests.xctest' tests='1' failures='0'>
+  <testsuite name='PatternBootcampTests.PatternBootcampTests' tests='1' failures='0'>
+    <testcase classname='PatternBootcampTests.PatternBootcampTests' name='testExample' time='0.001'/>
+  </testsuite>
+</testsuites>

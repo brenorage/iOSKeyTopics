@@ -1,0 +1,44 @@
+{
+  "configurations" : [
+    {
+      "id" : "DF05E7C9-6A7C-43A5-86CE-C7F56713B4BC",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:PatternBootcamp.xcodeproj",
+          "identifier" : "393F0F7A2C25FBE600FCA371",
+          "name" : "PatternBootcamp"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:PatternBootcamp.xcodeproj",
+      "identifier" : "393F0F7A2C25FBE600FCA371",
+      "name" : "PatternBootcamp"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:PatternBootcamp.xcodeproj",
+        "identifier" : "393F0F902C25FBE700FCA371",
+        "name" : "PatternBootcampTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:PatternBootcamp.xcodeproj",
+        "identifier" : "393F0F9A2C25FBE700FCA371",
+        "name" : "PatternBootcampUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
